@@ -6,11 +6,9 @@ def resta(num_1: int, num_2: int) -> int:
     return num_1 - num_2
 
 
-def gato(animal: str):
-    if animal == 'cat':
-        return True
-    else:
-        return False
+def cat_dogs():
+    jodiendo_a_naps = 0
+    return
 
 
 if __name__ == '__main__':
