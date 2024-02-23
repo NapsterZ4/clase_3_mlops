@@ -14,3 +14,4 @@ def cat_dogs():
 if __name__ == '__main__':
     print(suma(num_1=2, num_2=4))
     print(resta(num_1=2, num_2=5))
+    print(gato(animal='cat'))
